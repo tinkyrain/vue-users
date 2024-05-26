@@ -12,3 +12,5 @@
   <li>Vuetify</li>
   <li>Vue Router</li>
 </ul>
+
+## Время выполнения 1ч 34м
