@@ -1,7 +1,14 @@
-# Vue 3 + Vite
+# Как развернуть проект
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Для того, чтобы развернуть проект необходимо в терминале прописать команду ```git clone https://github.com/tinkyrain/vue-users.git```
+После клонирования репозитория установите все необходимые пакеты ```npm i```
+После установки пакетов пропишите команду ```npm run dev```, данная команда запустит приложение
 
-## Recommended IDE Setup
+# Стек
 
-- [VS Code](https://code.visualstudio.com/) + [Vue - Official](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (previously Volar) and disable Vetur
+<ul>
+  <li>Vue3</li>
+  <li>Pinia</li>
+  <li>Vuetify</li>
+  <li>Vue Router</li>
+</ul>
